@@ -4,6 +4,4 @@ title: hello friend
 ---
 
 
-## hello friend
-
 tes 
